@@ -1,0 +1,42 @@
+.bg-light {
+    background: #ffffff !important;
+    padding: 20px 10px 20px 10px;
+}
+.navbar-light .navbar-brand {
+    font-size: 28px;
+}
+.bg-light #navbarNav .navbar-nav .nav-item .nav-link {
+    text-transform: uppercase;
+    font-size: 15px;
+    color: #080a16;
+    padding-right: 20px;
+}
+
+.bg-light #navbarNav .navbar-nav .nav-item .nav-link.active {
+    color: #ffd200;
+}
+#footer {
+    background: #292734;
+    padding: 50px 100px 50px 100px;
+}
+#footer h3 {
+    font-size: 18px;
+    color: #ffffff;
+    margin-bottom: 20px;
+}
+#footer p a {
+    color: #ffffff;
+    font-size: 13px;
+    text-decoration: none;
+}
+#footer p a:hover {
+    color: #ffd200;
+}
+#footer #copyright {
+    color: #908f95;
+    text-align: center;
+    margin-top: 50px;
+}
+#footer #copyright p {
+    font-size: 11px;
+}
