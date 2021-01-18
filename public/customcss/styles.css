@@ -12,7 +12,8 @@
     padding-right: 20px;
 }
 
-.bg-light #navbarNav .navbar-nav .nav-item .nav-link.active {
+.bg-light #navbarNav .navbar-nav .nav-item .nav-link.active,
+.bg-light #navbarNav .navbar-nav .nav-item .nav-link:hover {
     color: #ffd200;
 }
 #footer {

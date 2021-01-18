@@ -11,7 +11,7 @@
     </head>
     <body>
         @include('sections.navbar')
-
+        @include('sections.slider')
 
         @include('sections.footer')
         <script src="{{ asset('bootstrap/js/jquery.js') }}"></script>
